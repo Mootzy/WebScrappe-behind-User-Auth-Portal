@@ -19,3 +19,4 @@ People sure do love their JavaScript/html<Divs>
  3rd day trying Pyton all prior experience in javascript and java
  
  
+HUGE THANKS TO : https://curl.trillworks.com/#python for processing google chrome Dev Tools returnd cUrl commands
