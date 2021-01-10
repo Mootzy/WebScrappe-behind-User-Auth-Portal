@@ -27,8 +27,8 @@ headers = {
 }
 
 data = {
-    'username': 'S02456439',
-    'password': 'Pedro4pres1qaz2wsx',
+    'username': 'username',
+    'password': 'password',
     'sessionDataKey': 'd411bab0-38b1-4e56-bae3-508635aaeec3'
 }
 
